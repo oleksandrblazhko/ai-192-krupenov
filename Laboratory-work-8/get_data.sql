@@ -1,0 +1,1 @@
+SELECT * FROM student WHERE s_name = 'Naddy'
